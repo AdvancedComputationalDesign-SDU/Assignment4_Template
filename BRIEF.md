@@ -170,6 +170,7 @@ Assignment4/
 ├── BRIEF.md                # Assignment handout (this file)
 ├── README.md               # Documentation with pseudo-code and explanations
 ├── TEMPLATE.md             # Minimal documentation template
+├── agent_panelization.gh   # Your grasshopper definition
 ├── surface_generator.py    # Python script to generate a complex surface using a numpy array generated with a continuous function
 ├── agent_builder.py        # Python script used in defining and initializing agents
 ├── agent_simulator.py      # Python script used in simulating agent behaviors
